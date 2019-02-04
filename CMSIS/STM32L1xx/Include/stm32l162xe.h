@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    stm32l100xb.h
+  * @file    stm32l162xe.h
   * @author  MCD Application Team
   * @brief   CMSIS Cortex-M3 Device Peripheral Access Layer Header File. 
   *          This file contains all the peripheral register's definitions, bits 
